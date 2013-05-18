@@ -1,0 +1,9 @@
+Updated version of cd_func, originally created by Petar Marinov (http://geocities.com/h2428).
+
+Now works with BASH *and* ZSH. Probably not the cleanest way of fixing this, but it works.
+
+To use:
+
+Type in `cd --` to get a recent list of directories.
+
+To change into a directory in the list, type in `cd -#` where # is the number of the directory you want to change into.
